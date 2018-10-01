@@ -1,0 +1,10 @@
+void BrisLight(void) {};
+void _BrisLight(void) {};
+void BrisSpControl(void) {};
+void _BrisSpControl(void) {};
+void BrisScaleIntToReal(void) {};
+void _BrisScaleIntToReal(void) {};
+void BrisUnscaleRealToInt(void) {};
+void _BrisUnscaleRealToInt(void) {};
+void BrisRealToReal(void) {};
+void _BrisRealToReal(void) {};
